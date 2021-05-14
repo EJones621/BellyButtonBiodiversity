@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("/static/images/blue_sky.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    
+  }
+
+  #heading{
+  color: lightgoldenrodyellow;
+  font-size: 60px;
+  -webkit-text-stroke: 2px darkblue;
+  }
+
+  #overview{
+    background-color: rgb(233, 233, 233);
+}
